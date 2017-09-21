@@ -1,4 +1,5 @@
 ExcellentExport.js
+本库中含有用原生的js导入excel、导出excel的方法以及demo
 ==================
 
 JavaScript export to Excel or CSV
